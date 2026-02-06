@@ -2,5 +2,5 @@
 
 ## Screenshot
 
-![Dashboard](Tableau/Demo.png)
+![Dashboard](Demo.png)
 
