@@ -47,8 +47,6 @@ Creates interactive maps to visualize launch sites and trajectories.
 - Understand factors influencing Falcon 9 landing success  
 - Build predictive models for landing outcomes  
 - Explore SpaceX launch history using multiple data sources  
-- Demonstrate full‑stack data science capability  
-  **(Web → API → SQL → EDA → ML → Visualization)**
 
 ---
 
