@@ -12,7 +12,7 @@ The goal is to provide a data-driven foundation for decision‑making.
 
 ## 📊 Data Model (Star Schema)
 
-![Data Model]('Data Model.png')
+![Data Model]("Data Model.png")
 
 ---
 
