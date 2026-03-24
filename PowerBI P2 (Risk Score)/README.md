@@ -25,7 +25,7 @@ The data model is structured as a star‑schema‑style analytical model.
 
 Surrounding these are descriptive dimensions such as **Organisations** and **RiskWeights**.
 
-![Data Model](Data%20Model.png)
+![Data Model](DataModel.png)
 
 ---
 
