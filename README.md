@@ -16,4 +16,4 @@ This repository collects self-directed projects in business intelligence, machin
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/faribajangjoo) · fariba.jangjoo@ntnu.no
+[LinkedIn](https://linkedin.com/in/faribajangjoo)
