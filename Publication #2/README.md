@@ -1,6 +1,7 @@
 ## Lost in Retraining: Closed-Loop Learning and Model Collapse in Exponential Families
 
 **Fariba Jangjoo¹, Giovanni di Sarra¹, Matteo Marsili², Yasser Roudi³**
+
 ¹ Kavli Institute for Systems Neuroscience, NTNU, Trondheim, Norway
 ² ICTP — International Centre for Theoretical Physics, Trieste, Italy
 ³ Department of Mathematics, King's College London, London, UK
