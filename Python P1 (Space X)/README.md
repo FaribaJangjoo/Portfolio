@@ -1,4 +1,6 @@
 # 🚀 SpaceX Launch Analysis & Machine Learning Project  
+*Built on the capstone project structure of the IBM Data Science Professional Certificate; all analysis, code, and modeling decisions in these notebooks are my own work completed for the certification.*
+
 *A complete end‑to‑end data science workflow using Python, SQL, APIs, Web Scraping, EDA, and Machine Learning.*
 
 This project analyzes SpaceX Falcon 9 launch data to understand launch performance, explore factors influencing landing success, and build predictive models. It demonstrates a full data science lifecycle — from raw data collection to machine learning insights.
