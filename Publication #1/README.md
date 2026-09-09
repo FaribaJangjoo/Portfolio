@@ -4,6 +4,7 @@
 Kavli Institute for Systems Neuroscience, Faculty of Medicine and Health Sciences, Norwegian University of Science and Technology, Trondheim, Norway
 
 **Status:** Under review, *PLOS ONE* (submitted 2025)
+
 **Preprint:** [bioRxiv, doi.org/10.1101/2025.03.23.644813](https://doi.org/10.1101/2025.03.23.644813)
 
 ## Abstract
