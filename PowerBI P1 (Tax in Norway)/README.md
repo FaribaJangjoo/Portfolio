@@ -1,6 +1,6 @@
 # Income and Tax Burden in Norway
 
-Power BI dashboard built on data pulled directly from Statistics Norway's (SSB) official API (table 06944), covering income and tax rates across 11 major Norwegian municipalities.
+Power BI dashboard built on data pulled directly from Statistics Norway's (SSB) official API (table 06944), covering income and tax rates across 11 Norwegian capital municipalities.
 
 ## What I built
 
