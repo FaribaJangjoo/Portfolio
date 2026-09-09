@@ -6,6 +6,7 @@ This repository collects self-directed projects in business intelligence, machin
 - **[PowerBI P1 — Income & Tax Burden in Norway](./PowerBI%20P1%20(Tax%20in%20Norway))** — ETL from SSB's official API, DAX measures, tax-burden analysis across 11 Norwegian municipalities
 - **[PowerBI P2 — Company Risk Score](./PowerBI%20P2%20(Risk%20Score))** — star-schema data model and weighted risk-scoring system for company reliability
 - **[Python P1 — SpaceX Launch Analysis & ML](./Python%20P1%20(Space%20X))** — end-to-end pipeline: web scraping, API extraction, EDA, and ML models predicting Falcon 9 landing success (83% test accuracy)
+- **[SQL P1 — SQL in Python](./SQL%20P1%20(Space%20X))** — SQL querying excerpt from the SpaceX project above (table creation, filtering, grouping, ranking)
 - **[Tableau P1 — Global Happiness Indices](./Tableau%20P1)** — interactive dashboard comparing happiness scores across world regions, 2015–2023
 
 ## Publications
